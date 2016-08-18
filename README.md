@@ -46,9 +46,11 @@ output from the AV command line utilities maintains the same format.
 
 ## Example usages
 
+
+```python
 import pprint
 from multiav.core import CMultiAV, AV_SPEED_MEDIUM
-```python
+
 multi_av = CMultiAV()
 ret = multi_av.scan(path, AV_SPEED_MEDIUM)
 pprint.pprint(multi_av)
