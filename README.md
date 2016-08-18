@@ -57,7 +57,7 @@ pprint.pprint(multi_av)
 
 
 
-## Moving Forware
+## Moving Forward
 
 The original documentation hasn't been updated in a while, I'll spend some time to rewrite that as well for those looking to use the legacy MultiAV
 
